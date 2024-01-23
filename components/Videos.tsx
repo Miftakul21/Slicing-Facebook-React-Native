@@ -95,11 +95,11 @@ const styles = StyleSheet.create({
     marginVertical: 10,
     backgroundColor: "#fff",
     paddingVertical: 10,
+    paddingHorizontal: 8,
   },
   topCardContent: {
     flexDirection: "row",
     justifyContent: "space-between",
-    paddingHorizontal: 5,
   },
   containerTextContent: {
     paddingHorizontal: 10,

@@ -1,19 +1,19 @@
 export const story = [
   {
     id: 1,
-    name: "Dwi Sri",
+    name: "Dita",
     img_profile: require("../../assets/images/image_profile_1.jpg"),
     img_story: require("../images/status_img_1.jpg"),
   },
   {
     id: 2,
-    name: "Dwie",
+    name: "Dina",
     img_profile: require("../../assets/images/image_profile_1.jpg"),
     img_story: require("../images/status_img_2.jpg"),
   },
   {
     id: 3,
-    name: "Wahyuni",
+    name: "Rina",
     img_profile: require("../../assets/images/image_profile_1.jpg"),
     img_story: require("../images/status_img_3.jpg"),
   },
